@@ -1,4 +1,4 @@
-chatbot link:  https://fridge-farewell-bot.lovable.app
+Chatbot link:  https://fridge-farewell-bot.lovable.app
 Kitchen Alchemist: AI-Powered Culinary Sustainability
 Project Overview
 Kitchen Alchemist is a conversational AI platform integrated into the BiteBack ecosystem. The project aims to mitigate domestic food waste by leveraging Generative AI to transform surplus or near-expiry ingredients into actionable recipes. By providing a low-friction interface for ingredient management, the application reduces the volume of organic waste sent to landfills and promotes sustainable consumption habits.
